@@ -1,0 +1,26 @@
+_repo: Doubloons-and-the-Girl_31528
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forbes, John Maxwell
+    gutenberg_agent_id: '35299'
+    url: http://www.gutenberg.org/2009/agents/35299
+description: ''
+gutenberg_issued: '2010-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treasure troves -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+title: Doubloons—and the Girl
+url: http://www.gutenberg.org/ebooks/31528
