@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35299'
     url: http://www.gutenberg.org/2009/agents/35299
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31528#Doubloons-and-the-Girl
 gutenberg_issued: '2010-03-06'
 gutenberg_type: Text
 identifiers:
